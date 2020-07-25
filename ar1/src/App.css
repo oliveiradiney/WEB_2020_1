@@ -1,0 +1,18 @@
+
+
+.App {
+  text-align: center;
+  position: relative;
+}
+#box-ini{
+  width: 23.9rem;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+#box{
+  padding: 14px;
+  padding-left: 20px;
+}
+.card-header{
+  font-size: 30px;
+}
