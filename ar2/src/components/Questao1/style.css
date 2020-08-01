@@ -1,0 +1,12 @@
+.hero img, .enemy img{
+    border-radius: 15px;
+}
+.hero, .enemy{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 8px;
+
+}
