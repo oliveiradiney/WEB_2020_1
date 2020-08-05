@@ -1,0 +1,40 @@
+{
+  "disciplinas": [
+    {
+      "nome": "SO",
+      "curso": "SI",
+      "capacidade": "40",
+      "id": 1
+    },
+    {
+      "nome": "Calculo I",
+      "curso": "EC",
+      "capacidade": "35",
+      "id": 2
+    },
+    {
+      "nome": "FUP",
+      "curso": "CC",
+      "capacidade": "40",
+      "id": 3
+    },
+    {
+      "nome": "LMS",
+      "curso": "DD",
+      "capacidade": "35",
+      "id": 4
+    },
+    {
+      "nome": "APS",
+      "curso": "ES",
+      "capacidade": "30",
+      "id": 5
+    },
+    {
+      "nome": "CSGBD",
+      "curso": "SI",
+      "capacidade": "40",
+      "id": 6
+    }
+  ]
+}
